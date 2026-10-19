@@ -1,0 +1,171 @@
+{
+  "version": "1.0.3",
+  "description": "My Teenieping Notebook Dynamic Resource Patch Manifest (Textures, Fonts, Quiz JSON, Sound WAVs)",
+  "files": [
+    {
+      "path": "UI/Textures/teenieping_bg.jpg",
+      "size": 318034,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/hachuping.png",
+      "size": 392205,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/hachuping.jpg",
+      "size": 97503,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/joaping.png",
+      "size": 568348,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/joaping.jpg",
+      "size": 134605,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/banggleping.png",
+      "size": 511852,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/banggleping.jpg",
+      "size": 122733,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/mideopping.png",
+      "size": 571410,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/mideopping.jpg",
+      "size": 139856,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/shashaping.png",
+      "size": 531644,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/shashaping.jpg",
+      "size": 117671,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/posilping.png",
+      "size": 411662,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/posilping.jpg",
+      "size": 83588,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/mallangping.png",
+      "size": 557197,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/mallangping.jpg",
+      "size": 124025,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/haengunping.png",
+      "size": 1753479,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/haengunping.jpg",
+      "size": 357726,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/romi.png",
+      "size": 340395,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/romi.jpg",
+      "size": 80148,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_hangul.jpg",
+      "size": 38614,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_english.jpg",
+      "size": 35895,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_math.jpg",
+      "size": 38982,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_art.jpg",
+      "size": 41629,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_music.jpg",
+      "size": 40775,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_typing.jpg",
+      "size": 41102,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_minigame.jpg",
+      "size": 39375,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_encyclopedia.jpg",
+      "size": 41722,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Textures/Previews/preview_shop.jpg",
+      "size": 29753,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Data/quiz_data.json",
+      "size": 5694,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Sounds/sfx_click.wav",
+      "size": 4012,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Sounds/sfx_success.wav",
+      "size": 19452,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Sounds/sfx_cheer.wav",
+      "size": 18566,
+      "hash": "v1.0.3"
+    },
+    {
+      "path": "UI/Sounds/ost_preview.wav",
+      "size": 79424,
+      "hash": "v1.0.3"
+    }
+  ]
+}

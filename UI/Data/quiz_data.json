@@ -1,0 +1,129 @@
+{
+  "version": "1.0.3",
+  "hangul_quizzes": [
+    {
+      "full_word": "하츄핑",
+      "display_question": "하 [ ? ] 핑",
+      "correct_answer": "츄",
+      "choices": ["츄", "냐", "포", "라"],
+      "quiz_type": "FillBlank",
+      "hint": "사랑의 로열핑! 'ㅊ'으로 시작해요."
+    },
+    {
+      "full_word": "조아핑",
+      "display_question": "[ ? ] 아 핑",
+      "correct_answer": "조",
+      "choices": ["로", "조", "보", "고"],
+      "quiz_type": "FillBlank",
+      "hint": "친절의 로열핑! 'ㅈ'으로 시작해요."
+    },
+    {
+      "full_word": "방글핑",
+      "display_question": "방 [ ? ] 핑",
+      "correct_answer": "글",
+      "choices": ["글", "실", "울", "달"],
+      "quiz_type": "FillBlank",
+      "hint": "웃음의 로열핑! 'ㄱ'으로 시작해요."
+    },
+    {
+      "full_word": "믿어핑",
+      "display_question": "[ ? ] 어 핑",
+      "correct_answer": "믿",
+      "choices": ["미", "믿", "민", "밀"],
+      "quiz_type": "FillBlank",
+      "hint": "믿음의 로열핑! 받침 'ㄷ'이 들어가요."
+    },
+    {
+      "full_word": "샤샤핑",
+      "display_question": "샤 [ ? ] 핑",
+      "correct_answer": "샤",
+      "choices": ["샤", "사", "서", "쇼"],
+      "quiz_type": "FillBlank",
+      "hint": "달콤한 아이스크림 요정! 'ㅅ'으로 시작해요."
+    },
+    {
+      "full_word": "포실핑",
+      "display_question": "포 [ ? ] 핑",
+      "correct_answer": "실",
+      "choices": ["슬", "실", "살", "솔"],
+      "quiz_type": "FillBlank",
+      "hint": "몽실몽실 솜사탕 요정! 'ㅅ'으로 시작해요."
+    },
+    {
+      "full_word": "말랑핑",
+      "display_question": "말 [ ? ] 핑",
+      "correct_answer": "랑",
+      "choices": ["랑", "롱", "링", "릉"],
+      "quiz_type": "FillBlank",
+      "hint": "탱글탱글 젤리 요정! 'ㄹ'으로 시작해요."
+    },
+    {
+      "full_word": "행운핑",
+      "display_question": "행 [ ? ] 핑",
+      "correct_answer": "운",
+      "choices": ["은", "운", "인", "안"],
+      "quiz_type": "FillBlank",
+      "hint": "네잎클로버 행운의 요정! 'ㅇ'으로 시작해요."
+    },
+    {
+      "full_word": "새콤핑",
+      "display_question": "새 [ ? ] 핑",
+      "correct_answer": "콤",
+      "choices": ["콤", "달", "상", "매"],
+      "quiz_type": "FillBlank",
+      "hint": "새콤달콤 레몬 타르트 요정! 'ㅋ'으로 시작해요."
+    },
+    {
+      "full_word": "달콤핑",
+      "display_question": "[ ? ] 콤 핑",
+      "correct_answer": "달",
+      "choices": ["달", "새", "별", "꿀"],
+      "quiz_type": "FillBlank",
+      "hint": "달콤한 딸기 타르트 요정! 'ㄷ'으로 시작해요."
+    },
+    {
+      "full_word": "빛나핑",
+      "display_question": "[ ? ] 나 핑",
+      "correct_answer": "빛",
+      "choices": ["빛", "별", "비", "빈"],
+      "quiz_type": "FillBlank",
+      "hint": "반짝반짝 스타 티니핑! 'ㅂ'으로 시작해요."
+    },
+    {
+      "full_word": "초롱핑",
+      "display_question": "초 [ ? ] 핑",
+      "correct_answer": "롱",
+      "choices": ["롱", "랑", "링", "루"],
+      "quiz_type": "FillBlank",
+      "hint": "눈망울이 초롱초롱한 스타 티니핑!"
+    }
+  ],
+  "english_cards": [
+    { "alphabet": "A", "word": "Apple", "meaning": "사과", "phonics": "[æ-pəl]" },
+    { "alphabet": "B", "word": "Bear", "meaning": "곰", "phonics": "[beər]" },
+    { "alphabet": "C", "word": "Crown", "meaning": "왕관", "phonics": "[kraʊn]" },
+    { "alphabet": "D", "word": "Diamond", "meaning": "다이아몬드", "phonics": "[daɪ-ə-mənd]" },
+    { "alphabet": "E", "word": "Emotion", "meaning": "감정 왕국", "phonics": "[ɪ-moʊ-ʃən]" },
+    { "alphabet": "F", "word": "Fairy", "meaning": "요정", "phonics": "[feə-ri]" },
+    { "alphabet": "G", "word": "Gem", "meaning": "보석", "phonics": "[dʒem]" },
+    { "alphabet": "H", "word": "Heart", "meaning": "하트", "phonics": "[hɑːrt]" },
+    { "alphabet": "I", "word": "Ice cream", "meaning": "아이스크림", "phonics": "[aɪs kriːm]" },
+    { "alphabet": "J", "word": "Jewel", "meaning": "보석함", "phonics": "[dʒuː-əl]" },
+    { "alphabet": "K", "word": "Kingdom", "meaning": "왕국", "phonics": "[kɪŋ-dəm]" },
+    { "alphabet": "L", "word": "Love", "meaning": "사랑", "phonics": "[lʌv]" },
+    { "alphabet": "M", "word": "Magic", "meaning": "마법", "phonics": "[mæ-dʒɪk]" },
+    { "alphabet": "N", "word": "Notebook", "meaning": "노트북", "phonics": "[noʊt-bʊk]" },
+    { "alphabet": "O", "word": "Orange", "meaning": "오렌지", "phonics": "[ɔːr-ɪndʒ]" },
+    { "alphabet": "P", "word": "Princess", "meaning": "공주", "phonics": "[prɪn-ses]" },
+    { "alphabet": "Q", "word": "Queen", "meaning": "여왕", "phonics": "[kwiːn]" },
+    { "alphabet": "R", "word": "Rainbow", "meaning": "무지개", "phonics": "[reɪn-boʊ]" },
+    { "alphabet": "S", "word": "Star", "meaning": "별", "phonics": "[stɑːr]" },
+    { "alphabet": "T", "word": "Teenieping", "meaning": "티니핑", "phonics": "[tiː-ni-pɪŋ]" },
+    { "alphabet": "U", "word": "Unicorn", "meaning": "유니콘", "phonics": "[juː-nɪ-kɔːrn]" },
+    { "alphabet": "V", "word": "Violet", "meaning": "제비꽃", "phonics": "[vaɪ-ə-lət]" },
+    { "alphabet": "W", "word": "Wand", "meaning": "마법봉", "phonics": "[wɑːnd]" },
+    { "alphabet": "X", "word": "Xylophone", "meaning": "실로폰", "phonics": "[zaɪ-lə-foʊn]" },
+    { "alphabet": "Y", "word": "Yellow", "meaning": "노란색", "phonics": "[jel-oʊ]" },
+    { "alphabet": "Z", "word": "Zebra", "meaning": "얼룩말", "phonics": "[ziː-brə]" }
+  ]
+}
